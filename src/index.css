@@ -19,4 +19,6 @@
 .cdx-score__icon {
     display: flex;
     align-items: center;
+    width: 9%;
+    justify-content: center;
 }
