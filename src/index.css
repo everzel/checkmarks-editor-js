@@ -1,0 +1,22 @@
+.cdx-score__base {
+    padding: 0.5rem 0 0.5rem 0;
+}
+.cdx-score__title {
+    margin-bottom: 1rem;
+}
+.cdx-score__input_name {
+    margin-bottom: 0.3rem;
+    font-size: 14px;
+}
+.cdx-score__base {
+    display: flex;
+    justify-content: space-between;
+}
+.cdx-score__form {
+    width: 90%;
+}
+
+.cdx-score__icon {
+    display: flex;
+    align-items: center;
+}
