@@ -21,8 +21,15 @@
     align-items: center;
     width: 9%;
     justify-content: center;
+    
 }
 .cdx-score__description {
     height: 80px;
     overflow-y: scroll;
+}
+
+@media (max-width: 768px) {
+    .cdx-score__icon {
+        margin-right: 14px;
+    }
 }
