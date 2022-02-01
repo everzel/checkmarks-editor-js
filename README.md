@@ -1,5 +1,5 @@
 Install
 
 ```shell
-yarn add https://github.com/everzel/title-witch-description#main
+yarn add https://github.com/everzel/checkmarks-editor-js#main
 ```
