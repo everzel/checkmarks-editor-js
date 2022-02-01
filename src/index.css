@@ -22,3 +22,7 @@
     width: 9%;
     justify-content: center;
 }
+.cdx-score__description {
+    height: 80px;
+    overflow-y: scroll;
+}
